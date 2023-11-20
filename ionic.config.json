@@ -1,0 +1,7 @@
+{
+  "name": "NEXT-STEP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
